@@ -29,6 +29,7 @@ interface:/var/tmp/ptyp0
 max_masters: 127
 baudrate: 38400
 maxinfo:1
+json_file: objects_config.json
 objectIdentifier: 699
 maxApduLengthAccepted: 1024
 segmentationSupported: segmentedBoth

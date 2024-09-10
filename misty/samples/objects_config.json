@@ -1,0 +1,14 @@
+{
+  "objectList": [
+      {
+        "objectId": 1,
+        "objectName": "attributeA",
+        "value": "attributeAValue"
+      },
+    {
+      "objectId": 2,
+      "objectName": "attributeB",
+      "value": "attributeBValue"
+    }
+  ]
+}
